@@ -9,10 +9,10 @@
 <div> 
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="www.instagram.com/judsoncabral_"></a>
    <a href="#" target="https://discordapp.com/users/273981330436390914"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="https://discordapp.com/users/273981330436390914"></a> 
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="http://www.linkedin.com/in/judson-cabral-de-melo"></a> 
+    <a href="http://www.linkedin.com/in/judson-cabral-de-melo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="http://www.linkedin.com/in/judson-cabral-de-melo"></a> 
  </div>
 	
-	[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+	[
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   	
 - 🔭 I’m currently working on Lampp-it
